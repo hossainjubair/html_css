@@ -1,0 +1,12 @@
+.p1{
+ color: black;
+    border: 1px solid black;
+    background: pink;
+    height: 30px;
+    
+}
+.box{
+    height: 200px;
+    width: 200px;
+    background: red;
+}
